@@ -14,9 +14,9 @@ Todo Smart est une application web simple et développée en HTML, CSS et JavaSc
 
 ---
 ## Technologies utilisées
-- **HTML5**
-- **CSS3** 
-- **JavaScript 
+- HTML5
+- CSS3
+- JavaScript 
 
  Auteur : MOHAMMED BOUICHA
  3IASD
